@@ -1,0 +1,9 @@
+0. cd darkflow, run "pip install ."
+   (or you can go to https://github.com/thtrieu/darkflow to see how to install darkflow)
+1. download weight file from https://drive.google.com/file/d/1rGVXK_6YgGVONWimxm-YogXSHpl3gmM6/view?usp=sharing
+2. put weight file in darkflow/ckpt/****.meta
+3. cd darkflow
+4. run file "6.demo_camera.py" or "7.demo_picture.py"
+5. you can change threshold by press 'a' and 'd'
+6. press space to show next image if you are running demo_picture
+7. press esc to exit demo

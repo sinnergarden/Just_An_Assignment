@@ -1,0 +1,1 @@
+python flow --model cfg/yolo-fashion.cfg --train --annotation "d:/shopee/data/train" --dataset "d:/shopee/data/train" --gpu 1.0

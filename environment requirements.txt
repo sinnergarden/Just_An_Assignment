@@ -1,0 +1,10 @@
+environment:
+	packages:
+		python 3.5
+		tensorflow 1.0+
+		numpy
+		opencv 3.1 +
+
+	GPU:
+		CUDA 8
+		cudnn 5.1+
