@@ -1,0 +1,17 @@
+blouse
+dress
+hat
+pants
+shoes
+shorts
+skirt
+t-shirt
+glasses
+scarf
+coat
+vest
+sockings
+boots
+bracelet
+belt
+bag
